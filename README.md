@@ -51,3 +51,7 @@ Le projet a réussi à développer une application complète pour encoder et dé
 Optimisation de la Reconnaissance de Points : Améliorer l'algorithme d'analyse des images pour une meilleure précision.
 Support de Plus de Caractères : Étendre le dictionnaire de codage pour inclure des caractères spéciaux et des langues non latines.
 Interface Multilingue : Ajouter une interface multilingue pour une utilisation internationale.
+## Contributeurs
+- [Galdro-0](https://github.com/Galdro-0)
+- [Hamza-El-Mourabit](https://github.com/Hamza-El-Mourabit)
+
